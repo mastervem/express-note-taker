@@ -1,10 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-    {
-        "title":"adsad",
-        "text":"12312321"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"adsad","text":"12312321"},{"title":"This is a test","text":"Hello hi"},{"title":"another one","text":"heloooooo"}]
